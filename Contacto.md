@@ -5,6 +5,6 @@
   <label for="name">Nombres:</label><br>
   <input type="text" id="fn name" name="name" value="Tus nombres"><br>
   <label for="lname">Apellidos:</label><br>
-  <input type="text" id"lname" name="lname" value="Tus Apellidos"><br>
+  <input type="text" id="lname" name="lname" value="Tus Apellidos"><br>
   <input type="submit" value="ENVIAR">
   </form>
