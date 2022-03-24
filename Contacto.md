@@ -2,7 +2,7 @@
 ## Numero de celular: 5543008619
 ## Correo electronico: SoLaR-photography@gmail.com
 <form action="https://formspree.io/f/mgedleod/ ">
-  <label for="name"<Nombres:</label><br>
+  <label for="name">Nombres:</label><br>
   <input type="text" id="fn name" name="name" value="Tus nombres"><br>
   <label for="lname">Apellidos:</label><br>
   <input type="text" id"lname" name="lname" value="Tus Apellidos"><br>
